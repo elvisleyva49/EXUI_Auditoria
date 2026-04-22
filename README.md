@@ -1,7 +1,9 @@
 # Informe de Auditoría de Sistemas - Examen de la Unidad I
 
 **Nombres y apellidos:** Elvis Ronald Leyva Sardon
+
 **Fecha:** 22 de abril de 2026
+
 **URL GitHub:** https://github.com/elvisleyva49/EXUI_Auditoria.git
 
 ---
